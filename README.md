@@ -275,9 +275,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Project Maintainer**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [https://github.com/yourusername/hybrid-decision-engine]
+- **Project Maintainer**: Shakeel Ur Rehman
+- **Email**: shakeelrana6240@gmail.com
 
 ---
 

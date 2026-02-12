@@ -1,0 +1,26 @@
+# Hybrid Decision Engine Dependencies
+# Core dependencies for the decision engine
+
+# Numerical computing and data processing
+numpy>=1.21.0
+scipy>=1.7.0
+
+# Computer vision (for test simulations)
+opencv-python>=4.5.0
+
+# Optional: For advanced statistical operations
+scikit-learn>=1.0.0
+
+# Development and testing dependencies (optional)
+# unittest is built-in with Python
+# pytest>=6.0.0  # Uncomment if you prefer pytest
+
+# For production deployment (optional)
+# requests>=2.25.0      # For HTTP notifications
+# paho-mqtt>=1.5.0      # For MQTT notifications
+# boto3>=1.17.0         # For AWS S3 evidence storage
+# redis>=3.5.0          # For caching and message queuing
+
+# Performance monitoring (optional)
+# psutil>=5.8.0
+# memory-profiler>=0.58.0
